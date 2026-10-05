@@ -22,7 +22,7 @@ Write and call functions in Python: define and call functions with parameters, r
 
 | Topic |  About |
 | ------ | ------ |
-|  [python-functions.ipynb](./python-functions.ipynb) | Code-a-long |
+|  [python-functions.ipynb](https://colab.research.google.com/github/ga-curriculum/python-functions-2/blob/main/python-functions.ipynb){:target="_blank"} | Code-a-long |
 
 
 ## Prerequisites
